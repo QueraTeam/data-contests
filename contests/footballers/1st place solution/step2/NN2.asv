@@ -1,0 +1,22 @@
+clc
+clear
+close all
+%%
+load traindata2
+load testdata
+L=zeros(2,numel(labels));
+L(1,labels==0)=1;
+L(2,labels==1)=1;
+
+Ftr=[1 1 1 1 1 1 1 1 1 1 1 1];
+%%
+ae1=trainAutoencoder(traindata(:,1:8)',8);
+feats=encode(ae1,traindata(:,1:8)');
+ae2=trainAutoencoder(feats,5);
+feats2=encode(ae2,feats);
+SM=trainSoftmaxLayer(feats2,L);
+SAE=stack(ae1,ae2,SM);
+%%
+SAE=train(SAE,traindata(:,1:8)',L);
+Y=SAE(testdata(:,1:8)');
+Y=Y(2,:)'
