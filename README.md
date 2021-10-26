@@ -6,10 +6,10 @@ To help the participants and provide them with proper educaitonal resources for 
 
 <center>
 
-| Contest | Sponser | Date | Scoreboard | Top Solutions | Webinar Files | Webinar Video | 
-|:------:|:------:|:----:|:----------:|:-------------:|:------------:|:-------:|
-| [**Mine Problem**](https://quera.ir/contest/assignments/31720/problems) | [Unidro](https://unidro.ir) | August 24, 2021 | [Link](https://quera.ir/contest/assignments/31720/scoreboard) | To Be Updated | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/mine_problem/webinar) |[Link](https://www.youtube.com/watch?v=Mc5YP0Z8nmM) |
-| [**Quera-Connect: فوتبالیست‌ها**](https://quera.ir/contest/assignments/28792/problems) | [Sahab](https://www.sahab.ir) | May 21, 2021 | [Link](https://quera.ir/contest/assignments/28792/scoreboard) | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/footballers) | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/footballers/webinar) |[Link](https://www.aparat.com/v/LyM5E) |
+| Contest | Sponser | Date | Scoreboard | Top Solutions | First Winner's Presentation | Webinar Files | Webinar Video |
+|:-------:|:-------:|:----:|:----------:|:-------------:|:---------------------------:|:-------------:|:-------------:|
+| [**Mine Problem**](https://quera.ir/contest/assignments/31720/problems) | [Unidro](https://unidro.ir) | August 24, 2021 | [Link](https://quera.ir/contest/assignments/31720/scoreboard) | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/mine_problem) | [Link](https://www.youtube.com/watch?v=Bmnps7ylJR8&list=PLMmq3JcujRN28T8ZSzrvrQ0gNAi4kc4mJ) | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/mine_problem/webinar) | [Link](https://www.youtube.com/watch?v=Mc5YP0Z8nmM) |
+| [**Quera-Connect: فوتبالیست‌ها**](https://quera.ir/contest/assignments/28792/problems) | [Sahab](https://www.sahab.ir) | May 21, 2021 | [Link](https://quera.ir/contest/assignments/28792/scoreboard) | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/footballers) | - | [Link](https://github.com/QueraTeam/data-contests/tree/main/contests/footballers/webinar) |[Link](https://www.aparat.com/v/LyM5E) |
 
 </center>
 
